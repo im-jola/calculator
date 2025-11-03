@@ -39,7 +39,7 @@ To use **π** type the number, the multiply operator and = button to perform cal
 
 ---
 
-# Set up
+
 
 
 
