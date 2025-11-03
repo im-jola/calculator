@@ -33,3 +33,14 @@ To use **π** type the number, the multiply operator and = button to perform cal
 
 # Photos 
 
+![Screenshot 14](Screenshot%20%2814%29.png)
+![Screenshot 21](Screenshot%20%2821%29.png)
+![Screenshot 26](Screenshot%20%2826%29.png)
+
+---
+
+# Set up
+
+
+
+
